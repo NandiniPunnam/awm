@@ -1,2 +1,2 @@
 I am awm;
-from mobile
+from pc
